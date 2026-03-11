@@ -208,8 +208,8 @@ __marimo__/
 
 # catboost train info
 4/catboost_info/
-pracrice/catboost_info/
+practice/catboost_info/
 
 # model data
-pracrice/model.pkl
-pracrice/scaler.pkl
+practice/model.pkl
+practice/scaler.pkl
