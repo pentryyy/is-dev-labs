@@ -213,3 +213,4 @@ labs/4/catboost_info/
 labs/4/model.pkl
 labs/4/scaler.pkl
 labs/3/best_ahp_weights.pkl
+labs/3/topsis_weights.pkl
